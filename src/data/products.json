@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Gamer",
+        "description": "Laptop de alto rendimiento para juegos y trabajo.",
+        "image": "https://example.com/laptop-gamer.jpg",
+        "code": "LP1234",
+        "price": 1500.99,
+        "status": true,
+        "stock": 25,
+        "category": "Electrónica"
+    },
+    {
+        "id": 2,
+        "title": "Auriculares Inalámbricos",
+        "description": "Auriculares Bluetooth con cancelación de ruido.",
+        "image": "https://example.com/auriculares.jpg",
+        "code": "AU5678",
+        "price": 199.99,
+        "status": true,
+        "stock": 100,
+        "category": "Accesorios"
+    },
+    {
+        "id": 3,
+        "title": "Teclado Mecánico RGB",
+        "description": "Teclado mecánico con iluminación RGB personalizable.",
+        "image": "https://example.com/teclado.jpg",
+        "code": "TK91011",
+        "price": 89.99,
+        "status": true,
+        "stock": 50,
+        "category": "Periféricos"
+    },
+    {
+        "id": 4,
+        "title": "Smartphone 5G",
+        "description": "Teléfono inteligente con tecnología 5G y pantalla AMOLED.",
+        "image": "https://example.com/smartphone.jpg",
+        "code": "SP1415",
+        "price": 899.99,
+        "status": true,
+        "stock": 30,
+        "category": "Electrónica"
+    },
+    {
+        "id": 5,
+        "title": "Monitor 4K",
+        "description": "Monitor UHD 4K con alta tasa de refresco y HDR.",
+        "image": "https://example.com/monitor.jpg",
+        "code": "MN1617",
+        "price": 499.99,
+        "status": true,
+        "stock": 20,
+        "category": "Monitores"
+    }
+]
